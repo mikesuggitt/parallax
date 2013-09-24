@@ -1,0 +1,53 @@
+@import url('bootstrap.css');
+
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+section {
+    height:100%;
+    width: 100%;
+}
+
+aside {
+    padding-top: 20%;
+
+}
+
+aside div {
+    width: 50%;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+    padding: 20px;
+}
+
+aside div.pull-right {
+   float:right;
+}
+
+
+aside h2 {
+    color: #FFFFFF;
+    font-size: 36px;
+}
+
+aside p {
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+#home {
+    background: url('../images/one.jpg') fixed no-repeat;
+}
+
+#section1 {
+    background: url('../images/two.jpg') fixed no-repeat;
+}
+
+#section2 {
+    background: url('../images/three.jpg') fixed no-repeat;
+}
+
+#section3 {
+    background: url('../images/four.jpg') fixed no-repeat;
+}
